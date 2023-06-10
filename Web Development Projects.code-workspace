@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Web Development Projects",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Software resume"
+	}
+}
